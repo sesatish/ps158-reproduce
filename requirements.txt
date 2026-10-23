@@ -1,0 +1,3 @@
+Pillow
+pandas
+pyreadstat==1.2.7
